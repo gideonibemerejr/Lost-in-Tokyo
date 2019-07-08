@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Highlight from '../Highlight/Highlight'
 
 export default class IntroText extends Component {
   render() {
