@@ -4,6 +4,7 @@ body {
   font-size: 1rem;
   line-height: 1.5;
   color: #fff;
+  background-color: #000;
 }
 
 .container {
@@ -47,14 +48,14 @@ body {
 
 .highlight-aqua:before {
   height: 14px;
-  /* background-image: url('../images/zigzag.svg'); */
+  background-image: url('/images/zigzag.svg');
   background-repeat: repeat-x;
   background-position-y: bottom;
 }
 
 .highlight-yellow:before {
   height: 10px;
-  /* background-image: url('../images/wave.svg'); */
+  background-image: url('/images/wave.svg');
   background-repeat: repeat-x;
   background-position-y: bottom;
 }
