@@ -14,6 +14,7 @@ Lost in Toyko, is a website that showcases the hippest and trendiest spots in To
 ## Screenshots
 
 ![Full Page](https://imgur.com/4c20RJX.png)
+![Home Page](https://imgur.com/MoTQFIa.png)
 
 ## Technologies Used
 
