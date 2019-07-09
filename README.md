@@ -13,6 +13,8 @@ Lost in Toyko, is a website that showcases the hippest and trendiest spots in To
 
 ## Screenshots
 
+![Full Page](https://imgur.com/4c20RJX)
+
 ## Technologies Used
 
 - HTML
@@ -22,5 +24,3 @@ Lost in Toyko, is a website that showcases the hippest and trendiest spots in To
 - [React](https://reactjs.org)
 - [Create React App](https://facebook.github.io/create-react-app/)
 - [Tachyons](https://tachyons.io/)
-
-## Getting Started
