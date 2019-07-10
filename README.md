@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Lost in Toyko, is a website that showcases the hippest and trendiest spots in Tokyo. In this project I was able to solidify the following:
+Lost in Toyko aka LiT, is a website that showcases the hippest and trendiest spots in Tokyo. In this project I was able to solidify the following:
 
 - Learning what problems React solves
 - Thinking about our pages as components
